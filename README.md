@@ -1,5 +1,5 @@
 👋 Hello, I'm Prakyath Mannungal Chandran!
-🌍 LinkedIn | 📧 prakyathmc0@gmail.com
+🌍 LinkedIn (https://www.linkedin.com/in/prakyathmc/) | 📧 prakyathmc0@gmail.com
 
 🎓 Educational Background:
 
