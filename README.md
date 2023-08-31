@@ -1,8 +1,7 @@
-👋 Hello, I'm Prakyath Mannungal Chandran!
+👋 Hello, I'm Prakyath Chandran!
 🌍 LinkedIn (https://www.linkedin.com/in/prakyathmc/) | 📧 prakyathmc0@gmail.com
 
 🎓 Educational Background:
-
 MSc Applied AI and Data Science, Solent University, Southampton, UK (Current)
 Bachelor of Computer Application, St Joseph’s College, India
 PCMC (Physics, Chemistry, Mathematics, Computer Science), St Anne’s College, India
