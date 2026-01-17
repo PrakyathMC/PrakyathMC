@@ -1,4 +1,4 @@
-## Prakyath Chandran
+## Prakyath Chandran - AI Intern (LLMs - Voice AI)
 
 AI / GenAI Engineer focused on building **production-ready ML and LLM systems** — not demos.
 
