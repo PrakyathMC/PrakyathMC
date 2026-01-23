@@ -1,6 +1,6 @@
 ## Prakyath Chandran - AI Intern (LLMs - Voice AI)
 
-AI / GenAI Engineer focused on building **production-ready ML and LLM systems** — not demos.
+AI / GenAI Engineer focused on building **production-ready ML and LLM systems** 
 
 I work on applied AI problems involving **LLMs, computer vision, and end-to-end ML and LLMOps systems**, with hands-on experience taking models from experimentation to deployment.
 
@@ -21,7 +21,7 @@ I work on applied AI problems involving **LLMs, computer vision, and end-to-end 
 - **LLMOps Trading Bot** – RAG-based financial document intelligence system, deployed on AWS EC2
 - **LLMOps Version Control Source Code Analyser System** – RAG-based analysing system which clone, analyses and answers, deployed on GCP
 - **LLMOps Interview QA Generator** – RAG-based QA generatore deployed on AWS
-- **Emergency Sign Language Detection** – Real-time CV system using CNN–LSTM  
+- **(Masters Research Thesis)Emergency Sign Language Detection** – Real-time CV system using CNN–LSTM  
 
 📍 Bangalore, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/prakyathmc/)
